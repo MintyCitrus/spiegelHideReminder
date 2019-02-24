@@ -1,2 +1,2 @@
 # spiegelHideReminder
-Tampermonkey script
+Simple Tampermonkey script to hide an overlay on spiegel.de
