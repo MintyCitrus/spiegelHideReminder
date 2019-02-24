@@ -1,0 +1,2 @@
+# spiegelHideReminder
+Tampermonkey script
