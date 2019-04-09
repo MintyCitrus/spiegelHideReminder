@@ -7,7 +7,7 @@
 // @downloadURL  https://github.com/MintyCitrus/spiegelHideReminder/spiegelHideReminder.js
 // @description  Set a cookie to avoid a constant reminder
 // @author       MintyCitrus
-// @match        http://www.spiegel.de/*
+// @match        https://www.spiegel.de/*
 // @grant        none
 // ==/UserScript==
 
