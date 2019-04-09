@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         spiegelHideReminder
 // @namespace    https://github.com/MintyCitrus/
-// @version      1.0
+// @version      1.1
 // @source       https://github.com/MintyCitrus/spiegelHideReminder
 // @updateURL    https://github.com/MintyCitrus/spiegelHideReminder/spiegelHideReminder.js
 // @downloadURL  https://github.com/MintyCitrus/spiegelHideReminder/spiegelHideReminder.js
